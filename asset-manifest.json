@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Chucknorrisapp/static/css/main.21d3986c.chunk.css",
+    "main.js": "/Chucknorrisapp/static/js/main.bcd5c808.chunk.js",
+    "main.js.map": "/Chucknorrisapp/static/js/main.bcd5c808.chunk.js.map",
+    "runtime-main.js": "/Chucknorrisapp/static/js/runtime-main.e8d0298b.js",
+    "runtime-main.js.map": "/Chucknorrisapp/static/js/runtime-main.e8d0298b.js.map",
+    "static/js/2.0e487e42.chunk.js": "/Chucknorrisapp/static/js/2.0e487e42.chunk.js",
+    "static/js/2.0e487e42.chunk.js.map": "/Chucknorrisapp/static/js/2.0e487e42.chunk.js.map",
+    "index.html": "/Chucknorrisapp/index.html",
+    "precache-manifest.d6e8ed843f8a54aba5a5a623e040c871.js": "/Chucknorrisapp/precache-manifest.d6e8ed843f8a54aba5a5a623e040c871.js",
+    "service-worker.js": "/Chucknorrisapp/service-worker.js",
+    "static/css/main.21d3986c.chunk.css.map": "/Chucknorrisapp/static/css/main.21d3986c.chunk.css.map",
+    "static/js/2.0e487e42.chunk.js.LICENSE.txt": "/Chucknorrisapp/static/js/2.0e487e42.chunk.js.LICENSE.txt",
+    "static/media/cnpic.png": "/Chucknorrisapp/static/media/cnpic.15d22072.png",
+    "static/media/index.css": "/Chucknorrisapp/static/media/headliner.03a61498.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8d0298b.js",
+    "static/js/2.0e487e42.chunk.js",
+    "static/css/main.21d3986c.chunk.css",
+    "static/js/main.bcd5c808.chunk.js"
+  ]
+}
